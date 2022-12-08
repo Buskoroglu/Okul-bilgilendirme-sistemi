@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Kırşehir Ahi Evran Üniversitesi</string>
+    <string name="buton1">GİRİŞ YAP</string>
+    <string name="buton2">KAYIT</string>
+    <string name="giris">KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ</string>
+    <string name="todo">TODO</string>
+    <string name="sifre">ŞİFRE</string>
+    <string name="ogrencigirisi">ÖĞRENCİ GİRİŞİ</string>
+    <string name="akademisyengirisi">AKADEMİSYEN GİRİŞİ</string>
+    <string name="kayit">K A Y I T</string>
+    <string name="soyisim">SOYİSİM</string>
+    <string name="isim">İSİM</string>
+    <string name="mail">MAİL</string>
+    <string name="Kayit_ol">Kayıt ol</string>
+    <string name="profilim">Profilim</string>
+    <string name="iletisim">İletişim</string>
+    <string name="cikis">Çıkış</string>
+    <string name="textview">TextView</string>
+    <string name="akademisyenismi">Hoşgeldiniz</string>
+    <string name="sifrem">şifre</string>
+    <string name="mailim">mail</string>
+    <string name="yenidensifre">YENİDEN ŞİFRE</string>
+    <string name="etkinlik">etkinlikler</string>
+    <string name="duyuru">duyurular</string>
+    <string name="yemek">yemek listesi</string>
+    <string name="program">programlar</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="settings">Settings</string>
+    <string name="back_again_to_exit">Please click BACK again to exit</string>
+    <string name="kayitol">Kayıt ol</string>
+</resources>
